@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @euezequielsilva
-- 🌱 I’m currently learning information Technology
+- 🌱 cursando analise e desenvolvimento de sistemas 
+-  22y 
 -..
 
 <!---
